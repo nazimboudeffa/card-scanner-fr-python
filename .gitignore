@@ -4,3 +4,4 @@ __pycache__/
 reference_images/
 images/
 card_hashes.db
+main.ipynb
