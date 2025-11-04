@@ -1,4 +1,4 @@
-# Card Scanner French
+# Card Scanner FR
 
 Ceci est le repo pour travailler la base de données des hash de cartes
 
