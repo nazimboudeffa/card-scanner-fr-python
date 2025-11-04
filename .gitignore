@@ -2,6 +2,3 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 reference_images/
-images/
-card_hashes.db
-main.ipynb
