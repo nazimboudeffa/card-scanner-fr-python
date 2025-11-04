@@ -2,7 +2,7 @@
 
 Ceci est le repo pour travailler la base de données des hash de cartes
 
-Comme je veux pas de problèmes avec des anonymes
+Comme je veux pas de problèmes, le projet est avant tout experimental
 
 Demandez moi sur Discord de vous autoriser à utiliser les cartes disponibles sinon il y a juste à les télécharger depuis ce lien
 
