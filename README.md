@@ -2,6 +2,8 @@
 
 Un projet expérimental pour créer une base de données complète des cartes Pokémon en français, avec génération automatique à partir d'images de référence et extraction de métadonnées depuis Cardmarket.
 
+ATTENTION ! Je ne fournis pas le dossier des images ni le JSON, vous devez le faire vous même car je ne veux pas de problèmes, merci
+
 Ce projet doit rester dans la légalité et respecter toutes les règles
 
 ---
@@ -96,8 +98,6 @@ reference_images/mega-evolution/fr-fr/
 ```
 
 Les images doivent suivre le format de nommage : `JL2G_FR_<numéro>.png`
-
-ATTENTION ! Je ne fournit pas le dossier des images ni le JSON vous devez le faire vous même car je ne veux pas de problèmes, merci
 
 ---
 
